@@ -3,5 +3,5 @@
 
 📍Living in Gubbio
 
-📖 Studing at UniPG
+📖 Studying at UniPG
 
