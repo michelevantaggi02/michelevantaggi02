@@ -1,6 +1,6 @@
 # Benvenuto to My GitHub World 🌐
 
-Ciao! I'm [Your Name], an Italian student navigating the world of code while studying at the University of Perugia (UniPG). Here's a brief overview of what you'll find in my GitHub space:
+Ciao! I'm Michele, an Italian student navigating the world of code while studying at the University of Perugia (UniPG). Here's a brief overview of what you'll find in my GitHub space:
 
 ## Quick Facts
 
